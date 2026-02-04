@@ -3,4 +3,4 @@
 - ✈️ Telegram: [Telegram](https://t.me/sunitsy)
 - 💼 LinkedIn: [Daniil Zharnasek](https://www.linkedin.com/in/daniil-zharnasek-178049316)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddjoul&show_icons=true&theme=radical)
+📄 [Download CV (PDF)](./CV_Zharnasek.pdf)
